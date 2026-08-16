@@ -1,0 +1,10 @@
+{
+  "key.category.discordhud.controls": "Discord HUD",
+  "key.discordhud.open_settings": "Open Discord HUD Settings",
+  "key.discordhud.accept_call": "Answer Discord Call",
+  "key.discordhud.decline_call": "Decline Discord Call",
+  "key.discordhud.toggle_mute": "Toggle Discord Mute",
+  "key.discordhud.toggle_deafen": "Toggle Discord Deafen",
+  "key.discordhud.toggle_screen_share": "Toggle Discord Screen Share",
+  "key.discordhud.toggle_hud": "Toggle Discord HUD"
+}

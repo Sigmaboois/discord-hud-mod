@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "discordhud",
+  "version": "${version}",
+  "name": "Discord HUD",
+  "description": "Fast Discord desktop controls directly from Minecraft. No companion app or Discord token required.",
+  "authors": ["Arenzya"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.arenzya.discordhud.DiscordHudClient"],
+    "modmenu": ["com.arenzya.discordhud.ui.DiscordHudModMenu"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
